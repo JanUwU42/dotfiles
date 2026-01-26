@@ -10,7 +10,7 @@
   "modules": [
     {
       "type": "os",
-      "key": "{icon} OS",
+      "key": "{icon} ",
       "keyColor": "#cba6f7",
       "format": "{2}",
     },
